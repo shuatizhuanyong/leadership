@@ -11,11 +11,13 @@
 # Amazon Leadership Principle 
 ## 1: Customer Obsession
 > questions:
- Give me an example of a time when you did not meet a client’s expectation. What happened, and how did you attempt to rectify the situation?
+* Give me an example of a time when you did not meet a client’s expectation. What happened, and how did you attempt to rectify the situation?
+```
   when I worked on blog migration system. 
 situation: there was a very old and popular blog system, build on 2005/2006. on 2011/2012, we decide to do a big upgrade. the reason is it becamed too hard to maintain and no one real understand the logic inside, very old UI. DAU was going down,so the team spent 9-10month rewrite most components including back-end service and UI/UX. We thought it became much better than before. however, the user didn't think so.
  task: meet the user 's expectation
  activity: I follows lots of common users, read end user's feedback. discuss with product manager. i rememeber we always received some feedback like always they couldn't find certain links. customer service always give them the standard answers: like how to find it. I found it was a common issue may effect lots of our users.  
+```
 
 ####
 
